@@ -1,8 +1,8 @@
-streamlit
-matplotlib.pyplot
-emoji
 collections
-pandas
-urlextract
 wordcloud
 re
+emoji
+streamlit
+matplotlib
+pandas
+urlextract
